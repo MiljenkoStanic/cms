@@ -1,0 +1,10 @@
+{
+    "name": "example/cms",
+    "description": "Simple OOP-based CMS skeleton",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
